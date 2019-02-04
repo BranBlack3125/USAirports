@@ -4,6 +4,6 @@ This page displays airport locations throughout the United States. The density o
 
 Leaflet, jQuery, Google font, and chroma libraries were imported to operate the page.
 
-The "Antique" basemap is sourced from CartoDB, and the Google font used is "Acme". The core of the index.html was derived from Prof. Bo Zhao's Geog 571 Lab 3 notes.
+The "Antique" basemap is sourced from CartoDB, and the Google font used is "Acme". The core of the index.html was derived from Prof. Bo Zhao's Geog 571 Lab 3 notes (GitHub repository to be found at: jakobzhao/geog571/labs/lab03).
 
 An attempt was made to add in Leaflet-based weather reporting to the map, but is not functioning correctly at this time.
